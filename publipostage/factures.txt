@@ -1,0 +1,4 @@
+date de facture ; date de debut ; date de fin ; nb de jours ; usager ; abonne ; bateau ; taille ; place ; type de place ; prix de base ; prix de la place ; prix elec ; prix eau ; prix jour ; total HT ; TVA ; total TTC ; date paiement
+01032020 ; 01032020 ; 31032020 ; 31 ; Titi ; 1 ; Tintin ; 12 ; 301 ; 2 ; 41.67 ; 54.17 ; 10.00 ; 10.00 ; 2.44 ; 74.17 ; 14.83 ; 89.00 ; 01011900
+12032020 ; 12032020 ; 11042020 ; 31 ; Thomas ; 1 ; Stevamor ; 7 ; 202 ; 1 ; 41.67 ; 41.67 ; 0.00 ; 0.00 ; 1.37 ; 41.67 ; 8.33 ; 50.00 ; 01011900
+04042020 ; 20032020 ; 15042020 ; 26 ; Floriane ; 0 ; Decimus ; 4 ; 209 ; 1 ; 20.00 ; 20.00 ; 0.00 ; 0.00 ; 20.00 ; 520.00 ; 104.00 ; 624.00 ; 011900

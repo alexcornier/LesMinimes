@@ -1,0 +1,7 @@
+date de debut ; date de fin ; usager ; bateau ; place ; electricite ; eau
+01/01/2020 ; 31/12/2020 ; Alex ; Maximus ; 201 ; 0 ; 0
+03/03/2020 ; 06/03/2020 ; Marie_rose ; Enez_sun ; 110 ; 0 ; 0
+12/03/2020 ; 12/03/2020 ; Thomas ; Stevamor ; 202 ; 0 ; 0
+15/03/2020 ; 26/03/2020 ; Jeannot ; Kobe ; 303 ; 1 ; 1
+20/03/2020 ; 25/04/2020 ; Floriane ; Decimus ; 209 ; 0 ; 0
+06/04/2020 ; 16/04/2020 ; Anne ; Gta ; 301 ; 1 ; 1

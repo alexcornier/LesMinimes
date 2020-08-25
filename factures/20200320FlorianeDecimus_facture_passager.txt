@@ -1,0 +1,2 @@
+date de facture ; date de debut ; date de fin ; nb de jours ; usager ; abonne ; bateau ; taille ; place ; type de place ; prix de base ; prix de la place ; prix elec ; prix eau ; prix jour ; total HT ; TVA ; total TTC ; date paiement
+04042020 ; 20032020 ; 15042020 ; 26 ; Floriane ; 0 ; Decimus ; 4 ; 209 ; 1 ; 20.00 ; 20.00 ; 0.00 ; 0.00 ; 20.00 ; 520.00 ; 104.00 ; 624.00 ; 011900

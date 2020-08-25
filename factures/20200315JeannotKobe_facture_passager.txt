@@ -1,0 +1,2 @@
+date de facture ; date de debut ; date de fin ; nb de jours ; usager ; abonne ; bateau ; taille ; place ; type de place ; prix de base ; prix de la place ; prix elec ; prix eau ; prix jour ; total HT ; TVA ; total TTC ; date paiement
+06042020 ; 15032020 ; 26032020 ; 11 ; Jeannot ; 0 ; Kobe ; 25 ; 303 ; 2 ; 20.00 ; 26.00 ; 5.00 ; 5.00 ; 36.00 ; 396.00 ; 79.20 ; 475.20 ; 01011900

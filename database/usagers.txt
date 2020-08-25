@@ -1,0 +1,11 @@
+cle ; attribut
+Alex ; 201
+Anne ; 0
+Baptiste ; 302
+Florentine ; 401
+Jeannot ; 0
+Marie_rose ; 0
+Marine ; 101
+Pauline ; 203
+Quentin ; 402
+Thomas ; 0

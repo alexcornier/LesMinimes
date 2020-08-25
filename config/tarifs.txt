@@ -1,0 +1,11 @@
+item ; valeur
+pxAnnuel ; 500.00
+pxJour ; 20.00
+coefType1 ; 1.30
+coefType2 ; 1.60
+coefCorpsMort ; 0.50
+pxElecJour ; 5.00
+pxEauJour ; 5.00
+pxElecMois ; 10.00
+pxEauMois ; 10.00
+TVA ; 0.20

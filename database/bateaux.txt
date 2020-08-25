@@ -1,0 +1,13 @@
+cle ; attribut
+Alexandre ; 12
+Amman ; 15
+BlackPearl ; 35
+Decimus ; 4
+Enez_sun ; 30
+Gta ; 12
+Kobe ; 25
+Maximus ; 8
+Mordouseg ; 6
+Pikatchu ; 3
+Stevamor ; 7
+Sunset ; 28

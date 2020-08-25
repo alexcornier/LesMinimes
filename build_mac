@@ -1,0 +1,1 @@
+g++ -std=c++11 main.cpp fonctions.cpp maptexte.cpp GestionPort.cpp tarifs.cpp facturation.cpp sejour.cpp place.cpp facture.cpp paiement.cpp -o LesMinimesEnUnClic
