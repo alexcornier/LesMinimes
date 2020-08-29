@@ -59,4 +59,4 @@ Application développée par :
 
 ## License
 
-Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations.
+Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE.md](LICENSE/LICENSE.md) pour plus d'informations.
